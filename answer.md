@@ -27,7 +27,7 @@
 
 </br>![alt text](b2.png)
 </br>合約2：updatePackage()
-</br>操作：packageStatus(name,receivedTime,address)
+</br>操作：notificationReceived(name,receivedTime,address)
 </br>交互參照：包裹領取通知
 </br>前置作業：警衛簽收包裹
 </br>後製作業：包裹所屬人之住戶獲得APP推播簡訊，包含收件時間與幾號幾樓住戶
